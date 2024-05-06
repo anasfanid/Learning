@@ -1,6 +1,8 @@
-d = first step to learn is find the way
+"d" = first step to learn is find the way
 print(d)
 
-e = "first step to learn is find the way"
-print(e)
+a = "first step to learn is find the way"
+print(a)
+
+
 
